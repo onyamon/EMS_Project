@@ -7,7 +7,7 @@
 # ชื่อของผู้พัฒนาโปรแกรม
 ### นางสาวอรยมล  ประชานันท์  663450352-3
 
-```mwemaid
+```mermaid
 classDiagram
     Form2 -- Form1
     Form1 -- Login
